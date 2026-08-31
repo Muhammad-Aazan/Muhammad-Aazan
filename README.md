@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20There,%20I'm%20Muhammad%20Aazan%20👋&fontSize=35&fontColor=fff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;React.js+%7C+SaaS+Builder;Turning+Ideas+Into+Web+Apps;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;React.js+%7C+SaaS+Builder;Turning+Ideas+Into+Web+Apps;Always+Learning%2C+Always+Building" alt="Typing SVG" />
 
 <a href="https://mastodon.social/@ProgrammerMind">
   <img src="https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white" />
@@ -123,7 +123,7 @@ I turn ideas into fully functional web apps — and I'm just getting started pus
 ## 🎬 Currently Coding
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500" alt="coding animation"/>
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Assets/Developer.gif" width="500" alt="coding animation"/>
 </div>
 
 ---
@@ -136,7 +136,22 @@ I turn ideas into fully functional web apps — and I'm just getting started pus
 
 ---
 
-## 🐍 Snake Contribution Animation
+## 📫 How to Reach Me
+
+<div align="center">
+
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
+<a href="mailto:programmermind15@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+> ⚠️ Replace the `#` in the href of each badge above with your actual profile links.
+
+</div>
+
+---
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/Muhammad-Aazan/Muhammad-Aazan/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
