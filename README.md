@@ -31,13 +31,13 @@ React.js, Frontend Development and Open Source Projects
 Scaling SaaS Products, Backend Architecture and Deployment
 
 🌱 **Currently learning**  
-React.js, Advanced JavaScript and Modern Frontend Development
+Backend Development, MongoDB and Express.js
 
 💬 **Ask me about**  
-HTML, CSS, JavaScript, React.js, Git & GitHub
+HTML, CSS, JavaScript, React.js and Frontend Development
 
 ⚡ **Fun fact**  
-I can turn ideas into fully functional web applications.
+I turn ideas into fully functional web apps — and I'm just getting started pushing the web's limits. 🚀
 
 </td>
 </tr>
@@ -66,18 +66,27 @@ I can turn ideas into fully functional web applications.
 
 ### 🛠️ Backend & Database
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MongoDB Compass](https://img.shields.io/badge/MongoDB%20Compass-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+### 🔌 Libraries & APIs
+![TanStack Query](https://img.shields.io/badge/TanStack%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+![Axios](https://img.shields.io/badge/axios-671ddf?style=for-the-badge&logo=axios&logoColor=white)
+![Multer](https://img.shields.io/badge/multer-000000?style=for-the-badge&logo=npm&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
+![ImageKit](https://img.shields.io/badge/imagekit-1573FF?style=for-the-badge&logo=imagekit&logoColor=white)
 
 ### ☁️ Deployment & Tools
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Replit](https://img.shields.io/badge/replit-%23667881.svg?style=for-the-badge&logo=replit&logoColor=white)
 
 ### 🎨 Design & Game Dev
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
@@ -109,10 +118,12 @@ I can turn ideas into fully functional web applications.
 
 </div>
 
-### 🏆 GitHub Trophies
+---
+
+## 🎬 Currently Coding
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Muhammad-Aazan&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&row=1" alt="trophies"/>
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="500" alt="coding animation"/>
 </div>
 
 ---
@@ -125,13 +136,13 @@ I can turn ideas into fully functional web applications.
 
 ---
 
-## 🎯 Snake Contribution Animation
+## 🐍 Snake Contribution Animation
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/Muhammad-Aazan/Muhammad-Aazan/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 </div>
 
-> 💡 *Note: The snake animation requires a one-time GitHub Actions workflow setup in your repo — ask me and I can generate the workflow file for you.*
+> 💡 This eats your contribution graph and animates it like a snake game. It needs a one-time GitHub Actions setup (see below) — after that it updates itself daily, automatically.
 
 ---
 
