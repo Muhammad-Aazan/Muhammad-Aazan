@@ -123,7 +123,7 @@ I turn ideas into fully functional web apps — and I'm just getting started pus
 ## 🎬 Currently Coding
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Assets/Developer.gif" width="500" alt="coding animation"/>
+<img src="https://media0.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bjVwaWg5d3QyYXFldjlnYWI3aDVoa3U1djhyY3N0bjBveWdldmhjZCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/DX1cytoIQvnmgqBlQ3/giphy.webp" width="500" alt="coding animation"/>
 </div>
 
 ---
