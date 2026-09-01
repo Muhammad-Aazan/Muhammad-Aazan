@@ -123,7 +123,7 @@ I turn ideas into fully functional web apps — and I'm just getting started pus
 ## 🎬 Currently Coding
 
 <div align="center">
-<img src="https://magic-coffee-mjk7v9vi.edgeone.dev/" width="500" alt="coding animation"/>
+<img src="https://magic-coffee-mjk7v9vi.edgeone.dev" width="500" alt="coding animation"/>
 </div>
 
 ---
