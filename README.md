@@ -1,9 +1,5 @@
-![Header](https://raw.githubusercontent.com/Muhammad-Aazan/Muhammad-Aazan/main/assets/header.svg)
-
-![About](https://raw.githubusercontent.com/Muhammad-Aazan/Muhammad-Aazan/main/assets/about.svg)
-
-![Skills](https://raw.githubusercontent.com/Muhammad-Aazan/Muhammad-Aazan/main/assets/skills.svg)
-
-![Stats](https://raw.githubusercontent.com/Muhammad-Aazan/Muhammad-Aazan/main/assets/stats.svg)
-
-![Footer](https://raw.githubusercontent.com/Muhammad-Aazan/Muhammad-Aazan/main/assets/footer.svg)
+![Header](assets/header.svg)
+![About](assets/about.svg)
+![Skills](assets/skills.svg)
+![Stats](assets/stats.svg)
+![Footer](assets/footer.svg)
