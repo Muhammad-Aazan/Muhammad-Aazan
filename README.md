@@ -12,7 +12,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&size=30\&pause=1200\&color=D9B25B\&center=true\&vCenter=true\&width=900\&lines=MERN+Stack+Developer;Full-Stack+Web+Developer;Building+Scalable+Web+Applications;Creating+Clean+%26+Modern+UIs;Learning+%26+Building+Every+Day;Turning+Ideas+Into+Real+Products)](https://git.io/typing-svg)
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjgyaTl2cGtnbmgzc2UxYm5yMWw0aHBxMnVmbG0wbTFmcms2YXN5ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Sx6ZvjBdppvrdXv1ox/giphy.gif" width="500"/>
 
 </div>
 
@@ -181,6 +181,20 @@ Exploring applications that combine:
 <br/><br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Muhammad-Aazan\&label=PROFILE%20VIEWS\&color=36BCF7\&style=flat) ![Followers](https://img.shields.io/github/followers/Muhammad-Aazan?label=FOLLOWERS\&style=flat\&color=36BCF7)
+
+</div>
+
+<img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg" width="100%"/>
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Muhammad-Aazan/Muhammad-Aazan/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Muhammad-Aazan/Muhammad-Aazan/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Muhammad-Aazan/Muhammad-Aazan/output/github-contribution-grid-snake.svg" width="100%"/>
+</picture>
 
 </div>
 
