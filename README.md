@@ -252,7 +252,7 @@ Scalable Full-Stack Applications
 [![GitHub](https://img.shields.io/badge/GitHub-Muhammad--Aazan-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Muhammad-Aazan)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Aazan-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/)
 [![Gmail](https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:your-email@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://your-portfolio-link.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://your-portfolio-link.com](https://aazanfolio-bmtuu4ww.manus.space)
 
 </div>
 
